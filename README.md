@@ -53,6 +53,6 @@ pip install gTTS
 
 Give this text-to-speech converter a try, and have fun experimenting with the application. We hope it proves to be a helpful tool for your Hindi text-to-speech needs. If you have any questions or encounter any difficulties, don't hesitate to reach out for support.
 
-Detailed article about the Text-to-Speech Hindi Converter can be found [here](https://medium.com/@manishshrivastava26/text-to-speech-converter-using-tkinter-and-gtts-dc33728abbb).
+Detailed article about the Text-to-Speech Converter can be found [here](https://medium.com/@manishshrivastava26/text-to-speech-converter-using-tkinter-and-gtts-dc33728abbb).
 
 Happy converting! 🎉
