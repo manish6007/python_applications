@@ -1,4 +1,4 @@
-# Text-to-Speech Hindi Converter
+# Text-to-Speech Converter
 
 <img width="497" alt="image" src="https://github.com/manish6007/python_applications/assets/41223158/46cc27f3-5016-4952-aac5-f5ef094721a0">
 
